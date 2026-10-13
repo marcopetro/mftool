@@ -44,6 +44,15 @@ mftool :: [uid] > dump                  # save full tag content to dumps/dump_[u
 mftool :: [uid] > exit
 ```
 
+<div align="center">
+  <picture>
+    <img alt="" src="https://github.com/user-attachments/assets/bb0ad9cc-8797-418e-a73b-74c9a743ed21" height="350px" width=auto />
+  </picture>
+  <picture>
+    <img alt="" src="https://github.com/user-attachments/assets/8a6f78a5-164e-42be-adcd-45c7f22855fc" height="350px" width=auto />
+  </picture>
+</div>
+
 ## Commands
 
 `connect` - Wait up to 5 s for a tag, display UID, ATR and card type.
