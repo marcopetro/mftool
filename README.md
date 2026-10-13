@@ -44,6 +44,15 @@ mftool :: [uid] > dump                  # save full tag content to dumps/dump_[u
 mftool :: [uid] > exit
 ```
 
+<div align="center">
+  <picture>
+    <img src="https://github.com/user-attachments/assets/7f6de530-44e3-4257-9f69-2d85afefc18e" alt="mftool terminal output showing sector and block decoding with access bits" width="62%" />
+  </picture>
+  <picture>
+    <img src="https://github.com/user-attachments/assets/10b47d90-b065-433e-818e-dbc78503648d" alt="mftool workflow screenshot with interactive command usage on a connected MIFARE Classic tag" width="34%" />
+  </picture>
+</div>
+
 ## Commands
 
 `connect` - Wait up to 5 s for a tag, display UID, ATR and card type.
