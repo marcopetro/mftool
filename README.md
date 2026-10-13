@@ -46,10 +46,7 @@ mftool :: [uid] > exit
 
 <div align="center">
   <picture>
-    <img alt="" src="https://github.com/user-attachments/assets/bb0ad9cc-8797-418e-a73b-74c9a743ed21" width="32%" />
-  </picture>
-  <picture>
-    <img alt="" src="https://github.com/user-attachments/assets/8a6f78a5-164e-42be-adcd-45c7f22855fc" width="60%" />
+    <img width="95%" alt="img" src="https://github.com/user-attachments/assets/82bcf8eb-b0c8-47f6-93f7-c9979f5f63ac" />
   </picture>
 </div>
 
